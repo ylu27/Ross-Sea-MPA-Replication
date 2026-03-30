@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 497d8d4703b8d727a13db7b0727d8af3ba2a3485
 keep if abs(x)<=37
 bys x post: egen yhat = sum(y)
 drop y

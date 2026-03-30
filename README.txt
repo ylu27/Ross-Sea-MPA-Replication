@@ -53,7 +53,7 @@ Replication Instructions
 To reproduce the results reported in the manuscript:
 
 1. Download all files in this repository.
-2. Open the relevant .do files in Stata.
+2. Open the relevant do/R/m files.
 3. Run the scripts sequentially to generate the tables and figures reported in the paper.
 
 
