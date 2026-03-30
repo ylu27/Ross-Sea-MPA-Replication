@@ -25,4 +25,4 @@ regress dop treatment##postmpa i.mmsi  i.month, cluster(mmsi)
 sum if treatment==1 & postmpa==0
 sum if treatment==1 & postmpa==1
 sum if treatment==0 & postmpa==0
-sum if treatment==1 & postmpa==1
+sum if treatment==0 & postmpa==1

@@ -1,4 +1,4 @@
-use "D:\Dropbox\paper2\data\Supplementary files\RD\Table 1\Table_1.dta" 
+
 keep if abs(x)<=37
 bys x post: egen yhat = sum(y)
 drop y
